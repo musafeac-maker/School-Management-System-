@@ -6,7 +6,7 @@ Program / Specialization: Data Science Specialization
 
 Institution: ULK University
 
-Students Name: MOUSA MOHAMED ABAKAR JOMAA
+Students Name: MOUSA MOHAMED ABAKAR JOMAA / MUSTAFA MAHADI MOHAMED AHMED
 
 Instructor / Professor: Dr. ERIC MANIRAGUHA
 
