@@ -2,13 +2,10 @@ School Management System
 Project Information
 Program / Specialization: Data Science Specialization
 Institution: ULK University
-Students Name:
-1.	MOUSA MOHAMED ABAKAR JOMAA
-2.	MUSTAFA  MAHADI MOHAMED AHMED
-Roll numbers:
-1.	202512517
-2.	202512507
+Students Name: MOUSA MOHAMED ABAKAR JOMAA
+
 Instructor / Professor: Dr. ERIC MANIRAGUHA
+
 Overview
 This repository contains the complete system analysis, UML class design, and project documentation for the School Management System, developed as part of academic requirements for the Data Science program.
 Repository Structure
